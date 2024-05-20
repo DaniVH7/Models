@@ -7,7 +7,7 @@ Diversion con LLM y Party
 
 ## 2. Lanzar el server y abrir otra terminal: ollama server
 
-# ollama list muestra los datos: "NAME, ID, SIZE, MODIFIED"
+## ollama list muestra los datos: "NAME, ID, SIZE, MODIFIED"
 
 ## 3 Descargar algun modelo:  ollama pull tinyllama
 
